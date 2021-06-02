@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CAC_Planning_App.iml" filepath="$PROJECT_DIR$/.idea/CAC_Planning_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CAC_Planning_App.iml" filepath="$PROJECT_DIR$/.idea/modules/CAC_Planning_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CAC_Planning_App.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CAC_Planning_App.app.iml" />
     </modules>
   </component>
 </project>
